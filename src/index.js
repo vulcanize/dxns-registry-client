@@ -35,7 +35,7 @@ import {
 
 const log = debug('registry-client');
 
-export const DEFAULT_CHAIN_ID = 'wireline';
+export const DEFAULT_CHAIN_ID = 'vulcanize-1';
 
 const DEFAULT_WRITE_ERROR = 'Unable to write to WNS.';
 
